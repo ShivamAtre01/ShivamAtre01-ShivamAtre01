@@ -14,18 +14,20 @@ Here are some of my key projects:
 - Predicts real-time vegetable and fruit prices using LSTM models.  
 - **Repo:** [GitHub Link](https://github.com/ShivamAtre01/Agricode)  
 - **Tech:** Python, Flask, LSTM, Pandas
+-[Demo Video](https://drive.google.com/file/d/1FdFF-LNnH9cK7vUZOjvqKjnWzoBvQSMN/view?usp=drive_link)
 
 Real-Time Emotion Detection
 - Detects emotions from webcam in real-time using YOLOv8 and a custom CNN/ResNet model.  
 - **Repo:** [GitHub Link](https://github.com/ShivamAtre01/Ai_ML-Emotion-Detection)  
 - **Tech:** Python, OpenCV, TensorFlow
-- ![Emotion Detection Demo](https://user-images.githubusercontent.com/your-username/demo.gif)
-[Try Live Demo](https://your-demo-link.com)
+- [Demo]([https://your-demo-link.com](https://drive.google.com/file/d/19UHq0mLvgnanOC9RMo7Lzu8OTb_3MUdt/view?usp=drive_link))
 
 ### Twitter-like Django Web App
 - Social media platform clone built with Django and PostgreSQL.  
 - **Repo:** [GitHub Link](https://github.com/ShivamAtre01/Python-Django-Project)  
 - **Tech:** Django, HTML/CSS/JS, PostgreSQL  
+--[Demo Video](https://drive.google.com/file/d/1Q_a7jxl3iY57EWCz7aX8n4FqQpJS-Z5p/view?usp=drive_link)
+
 
   
 
