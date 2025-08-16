@@ -18,7 +18,9 @@ Here are some of my key projects:
 Real-Time Emotion Detection
 - Detects emotions from webcam in real-time using YOLOv8 and a custom CNN/ResNet model.  
 - **Repo:** [GitHub Link](https://github.com/ShivamAtre01/Ai_ML-Emotion-Detection)  
-- **Tech:** Python, OpenCV, TensorFlow  
+- **Tech:** Python, OpenCV, TensorFlow
+- ![Emotion Detection Demo](https://user-images.githubusercontent.com/your-username/demo.gif)
+[Try Live Demo](https://your-demo-link.com)
 
 ### Twitter-like Django Web App
 - Social media platform clone built with Django and PostgreSQL.  
