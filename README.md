@@ -1,8 +1,11 @@
 # ShivamAtre01-ShivamAtre01
  Hi, I'm Shivam 👋
 AI/ML Developer | Open Source Enthusiast | Full Stack Developer
-
-💻 Tech Stack: Python, Django, React, PostgreSQL, TensorFlow, PyTorch  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+ 
 [LinkedIn](https://linkedin.com/in/shivam-atre-30650524a)
 ## 🔭 My Projects
 Here are some of my key projects:
